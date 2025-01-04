@@ -2,10 +2,10 @@
 
 ## 📖 About the Project / Sobre o Projeto
 
-**English**  
+**🇺🇸 English**  
 This repository contains my studies of the Go programming language, based on the book *"The Go Programming Language"* by Alan A. A. Donovan and Brian W. Kernighan. The project is structured chapter by chapter as I progress through the book, starting from Chapter 1. The goal is to complete the book and deepen my understanding of Go.
 
-**Português**  
+**🇧🇷 Português**  
 Este repositório contém meus estudos sobre a linguagem de programação Go, baseados no livro *"The Go Programming Language"* de Alan A. A. Donovan e Brian W. Kernighan. O projeto está estruturado capítulo por capítulo, conforme avanço na leitura, começando pelo Capítulo 1. O objetivo é concluir o livro e aprofundar meu conhecimento em Go.
 
 ---
@@ -20,13 +20,13 @@ Este repositório contém meus estudos sobre a linguagem de programação Go, ba
 └── README.md   # This file
 ```
 
-**English**  
+**🇺🇸 English**  
 Each folder corresponds to a chapter of the book and contains:
 - Example code from the book.
 - Solutions to exercises.
 - Notes and comments.
 
-**Português**  
+**🇧🇷 Português**  
 Cada pasta corresponde a um capítulo do livro e contém:
 - Código de exemplo retirado do livro.
 - Soluções para os exercícios.
@@ -45,7 +45,7 @@ Cada pasta corresponde a um capítulo do livro e contém:
 
 ## 🚀 How to Run / Como Executar
 
-**English**  
+**🇺🇸 English**  
 1. Install Go: [Download Go](https://go.dev/dl/)
 2. Clone this repository:
    ```bash
@@ -58,7 +58,7 @@ Cada pasta corresponde a um capítulo do livro e contém:
    go run main.go
    ```
 
-**Português**  
+**🇧🇷 Português**  
 1. Instale o Go: [Baixar Go](https://go.dev/dl/)
 2. Clone este repositório:
    ```bash
@@ -82,18 +82,18 @@ Cada pasta corresponde a um capítulo do livro e contém:
 
 ## 🤝 Contributing / Contribuindo
 
-**English**  
+**🇺🇸 English**  
 This is a personal project for study purposes. However, suggestions and contributions are welcome! Feel free to open issues or submit pull requests.
 
-**Português**  
+**🇧🇷 Português**  
 Este é um projeto pessoal para fins de estudo. No entanto, sugestões e contribuições são bem-vindas! Fique à vontade para abrir issues ou enviar pull requests.
 
 ---
 
 ## 📜 License / Licença
 
-**English**  
+**🇺🇸 English**  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-**Português**  
+**🇧🇷 Português**  
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
