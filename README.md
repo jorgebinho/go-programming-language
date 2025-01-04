@@ -15,8 +15,9 @@ Este repositório contém meus estudos sobre a linguagem de programação Go, ba
 ```
 .
 ├── chapter1/   # Exercises and code from Chapter 1
-├── chapter2/   # To be added as I progress
-├── chapter3/   # ...
+├── chapter2/   # Exercices and code from Chapter 2
+├── chapter3/   # To be added as I progress
+├── chapter4/   # ...
 └── README.md   # This file
 ```
 
@@ -38,8 +39,9 @@ Cada pasta corresponde a um capítulo do livro e contém:
 
 | Chapter   | Status       | Notes                              |
 |-----------|--------------|------------------------------------|
-| Chapter 1 | In Progress  | Basic syntax, functions, and more |
-| Chapter 2 | Not Started  | Coming soon...                    |
+| Chapter 1 | Read  | Basic syntax, functions, and miscelaneous |
+| Chapter 2 | In Progress  | Programs Struct               |
+| Chapter 3 | Not Started  | Coming soon...                    |
 
 ---
 
